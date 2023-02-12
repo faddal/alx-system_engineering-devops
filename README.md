@@ -6,6 +6,7 @@
 - [shell scripting adventures](http://linuxcommand.org/lc3_adventures.php)
 - [the linux command line book by William Shotts](http://linuxcommand.org/tlcl.php#AWTLCL)
 - [supplementary resources](http://linuxcommand.org/lc3_resources.php)
+- [cron jobs](https://www.freecodecamp.org/news/cron-jobs-in-linux/)
 
 ## Shell Navigation
 - [shell navigation](https://intranet.alxswe.com/rltoken/wpsA1kZvIz5_aVkvXuKN5Q)
