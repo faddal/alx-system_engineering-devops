@@ -34,3 +34,4 @@
 - [permissions](http://linuxcommand.org/lc3_lts0090.php)
 - [alex xu twitter thread](https://twitter.com/alexxubyte/status/1532026886359879681?lang=en)
 - [more on the chown command](https://phoenixnap.com/kb/linux-chown-command-with-examples#:~:text=To%20change%20the%20owner%20of%20a%20symbolic%20link%2C%20use%20the,the%20symbolic%20link%20remain%20intact.)
+- [stat command](https://ma.ttias.be/get-the-file-or-directory-owner-in-bash-for-use-in-scripts-on-linux/)
