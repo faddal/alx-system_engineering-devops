@@ -42,6 +42,12 @@
 
 > 4. display the last 10 lines of /etc/passwd
 > ```console
-> tail -n 5 /etc/passwd
+> tail -n 10 /etc/passwd
+> ```
+<br />
+
+> 5. display the first 10 lines of /etc/passwd
+> ```console
+> head -n 10 /etc/passwd
 > ```
 <br />
