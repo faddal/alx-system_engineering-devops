@@ -37,5 +37,11 @@
 > 3. display the content of /etc/passwd and /etc/hosts
 > ```console
 > cat /etc/passwd /etc/hosts
-```
+> ```
+<br />
+
+> 4. display the last 10 lines of /etc/passwd
+> ```console
+> tail -n 5 /etc/passwd
+> ```
 <br />
