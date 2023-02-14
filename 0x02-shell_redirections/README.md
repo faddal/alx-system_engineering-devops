@@ -26,3 +26,10 @@
 > ```console
 > echo "\"(Ôo)'"
 > ```
+<br />
+
+> 2. display the content of the /etc/passwd file
+> ```console
+> cat /etc/passwd
+> ```
+<br />
