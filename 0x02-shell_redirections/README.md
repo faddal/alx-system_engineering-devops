@@ -33,3 +33,9 @@
 > cat /etc/passwd
 > ```
 <br />
+
+> 3. display the content of /etc/passwd and /etc/hosts
+> ```console
+> cat /etc/passwd /etc/hosts
+```
+<br />
