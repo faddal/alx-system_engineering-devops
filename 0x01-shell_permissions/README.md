@@ -1,5 +1,19 @@
 # SHELL PERMISSIONS
 
+> commands to know
+`chmod`
+`sudo`
+`su`
+`chown`
+`chgrp`
+`id`
+`groups`
+`whoami`
+`adduser`
+`useradd`
+`addgroup`
+<br/>
+
 > 0. create a script that switches the current user to the user `betty`
 >```console
 >su betty
