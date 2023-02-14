@@ -51,3 +51,9 @@
 > head -n 10 /etc/passwd
 > ```
 <br />
+
+> 6. write a script that displays the third line of the file iacta
+> ```console
+> head -n 3 iacta | tail -n 1
+> ```
+<br />
